@@ -11,6 +11,8 @@
 ![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
 
 
+
+<!--
 ----
 **bold**<br>
 *italic*<br>
@@ -27,7 +29,6 @@
 print("Hello my dear")
 ```
 
-<!--
 # Hi there 👋
 ## Hi there 👋
 ### Hi there 👋
