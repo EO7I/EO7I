@@ -5,8 +5,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EO7I&layout=compact)](https://github.com/EO7I/github-readme-stats)
 
 ![C](https://img.shields.io/badge/-C-123456?style=flat-square&logo=C&logoColor=black)
+/
 ![자바](https://img.shields.io/badge/-자바-007396?style=flat&logo=Java&logoColor=ffffff)
-
+/
 ![MariaDB](https://img.shields.io/badge/-MariaDB-1F305F?style=flat-square&logo=mariadb&logoColor=white)
 
 # Hi there 👋
